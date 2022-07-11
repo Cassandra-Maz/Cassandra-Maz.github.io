@@ -1,38 +1,25 @@
 ## Cassandra "Cassie" Maz
 Ph.D. student at the University of Washington
 
-You can use the [editor on GitHub](https://github.com/Cassandra-Maz/Cassandra-Maz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This fall, I will be entering my 3rd year in the linguistics Ph.D. program. My current research interests include:
+- Computational Linguistics
+- Natural Language Processing
+- Machine Translation
+- Sign Languages
+- Sociolinguistics
+- Discourse Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Current/Ongoing Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sign Language Translation Systems**: investigating the demand for automated sign language translation within Deaf communities and how well existing systems can capture various aspects of ASL grammar.
 
-```markdown
-Syntax highlighted code block
+**Conflict Resolution in Cooperative Gaming**: investigating how conflict resolution contributes to collective storytelling in cooperative tabletop games such as Dungeons & Dragons and Monster of the Week. 
 
-# Header 1
-## Header 2
-### Header 3
+### Past Research Projects
 
-- Bulleted
-- List
+**Gendered Dialogue in Animated Films**: looks at how male and female characters in Disney and Dreamworks animated movies use language depending on whether they are protagonists or antogonists. See the project repo [here](https://github.com/Cassie-Maz/Animated-Movie-Gendered-Dialogue).
 
-1. Numbered
-2. List
+### [CV](https://github.com/Cassandra-Maz/Cassandra-Maz.github.io/blob/main/Cassandra_Maz_cv.pdf)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cassandra-Maz/Cassandra-Maz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
