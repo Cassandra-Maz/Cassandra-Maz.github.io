@@ -1,7 +1,7 @@
 ## Cassandra "Cassie" Maz
 Ph.D. student at the University of Washington
 
-This fall, I will be entering my 3rd year in the linguistics Ph.D. program. My current research interests include:
+I am a 3rd year in the linguistics Ph.D. program. My current research interests include:
 - Computational Linguistics
 - Natural Language Processing
 - Machine Translation
